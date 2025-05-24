@@ -10,9 +10,6 @@ Please take the time to investigate these sources for more information, examples
 
 ## Links
 
-- [Numpy Jupyter Notebook](notes_03_numpy.ipynb). We will review the code presented here.
-
----
 
 
  
