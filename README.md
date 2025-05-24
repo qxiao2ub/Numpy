@@ -1,4 +1,4 @@
-# Module 3 -- NumPy
+# Python -- NumPy
 
 This module provides an overview of `numpy` (numerical python). 
 
